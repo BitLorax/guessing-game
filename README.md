@@ -1,2 +1,3 @@
-# Guessing Game
-Small number-guessing game written with Bash as part of the Unix Workbench Coursera course
+#Guessing Game by BitLorax
+Make run at Sun Jan 10 22:08:45 PST 2021
+23 guessinggame.sh lines in guessinggame.sh
